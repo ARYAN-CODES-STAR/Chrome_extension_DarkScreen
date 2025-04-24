@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "PH 2",
+    "version": "1.0",
+    "description": "Automatically enables dark mode on Product Hunt with a toggle switch.",
+    "permissions": ["storage", "scripting"],
+    "host_permissions": ["https://www.producthunt.com/*"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://www.producthunt.com/*"],
+        "js": ["content.js"],
+        "run_at": "document_end"
+      }
+    ],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
