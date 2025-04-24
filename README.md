@@ -22,7 +22,7 @@ Product Hunt is a popular platform for discovering new products, but its default
 ## 🛠️ Installation (Local Development)
 
 ### Prerequisites
-- Google Chrome Browser
+- Google Chrome Supported Browser (Chrome, Brave)
 - Git (optional)
 - Basic knowledge of Chrome extension development
 
@@ -30,7 +30,7 @@ Product Hunt is a popular platform for discovering new products, but its default
 
 1. **Clone or Download the Repository**
    ```bash
-   git clone https://github.com/your-username/ProductHunt_dark.git
+   git clone https://github.com/ARYAN-CODES-STAR/Chrome_extension_DarkScreen
    ```
    Or download and extract the ZIP file
 
@@ -115,7 +115,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 If you encounter any issues or have suggestions:
 - Open an issue on GitHub
-- Contact: your-email@example.com
+- Contact: aryansh0004@gmail.com
 
 ---
 
