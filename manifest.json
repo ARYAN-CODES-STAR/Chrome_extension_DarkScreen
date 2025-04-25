@@ -3,6 +3,12 @@
     "name": "PH 2",
     "version": "1.0",
     "description": "Automatically enables dark mode on Product Hunt with a toggle switch.",
+    "icons": {
+        "16": "icon.png",
+        "32": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+    },
     "permissions": ["storage", "scripting"],
     "host_permissions": ["https://www.producthunt.com/*"],
     "background": {
